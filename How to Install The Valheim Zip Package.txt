@@ -1,1 +1,5 @@
-123
+Using Steam to play Valheim:
+
+To install this file, unzip it to the directory:
+
+C:\Program Files (x86)\steam\steamapps\common\valheim
